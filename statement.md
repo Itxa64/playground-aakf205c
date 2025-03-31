@@ -1,6 +1,6 @@
-# Welcome!
+# Bienvenue!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Ce parcours Python va vous permettre de progresser à votre rythme.
 
 ```python runnable
 print('Hello World!')
