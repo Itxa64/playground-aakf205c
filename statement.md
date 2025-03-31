@@ -11,4 +11,4 @@ print('Hello World!')
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
 
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+@[Luke, how many stars are there in these galaxies?]({"stubs": ["uppercase.py"], "command": "string_tests.py"})
