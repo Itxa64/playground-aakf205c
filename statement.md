@@ -10,4 +10,4 @@ print('Hello World!')
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
 
-@[Test unittest: uppercase]({"stubs":["uppercase.py"], "command":"string_tests.StringTests.test_to_upper"})
+@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
