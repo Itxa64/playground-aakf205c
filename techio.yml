@@ -7,5 +7,7 @@ projects:
   python:
     root: /
     runner: python:3.9
+    tests:
+      - "test_ajouter"
 
 
