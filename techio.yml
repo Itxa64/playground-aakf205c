@@ -3,5 +3,4 @@ plan:
 - title: Python Snippet
   statement: statement.md
 
-runner: techio/python3-unittest-runner:1.1.0-python-3.6
 
