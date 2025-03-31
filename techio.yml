@@ -6,6 +6,6 @@ plan:
 projects:
   python:
     root: /
-    runner: python3.8
+    runner: python3.9
 
 
