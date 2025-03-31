@@ -12,4 +12,4 @@ If you want a more complex example (external libraries, viewers...), use the [Ad
 
 
 
-@[Test unittest: uppercase]({"stubs":["uppercase.py"], "command":"string_tests.StringTests.test_to_upper"})
+@[Test unittest: TestAjouter]({"stubs":["code.py"], "command":"TestAjouter.test_ajouter"})
