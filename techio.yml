@@ -3,4 +3,8 @@ plan:
 - title: Python Snippet
   statement: statement.md
 
+projects:
+  python:
+    root: /python-project
+    runner: python:3  
 
