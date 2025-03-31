@@ -1,2 +1,3 @@
-def to_upper(string):
-    return string.upper()
+def ajouter(a, b):
+    # Compléter cette fonction pour qu'elle retourne la somme de a et b
+    pass
