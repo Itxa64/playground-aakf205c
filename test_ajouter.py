@@ -1,6 +1,5 @@
 import unittest
 from code import ajouter
-
 class TestAjouter(unittest.TestCase):
     def test_ajouter(self):
         # Test de la fonction ajouter avec des messages en cas de succès ou d'échec
