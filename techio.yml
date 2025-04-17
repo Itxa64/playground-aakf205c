@@ -1,13 +1,9 @@
 title: Parcours Python NSI
-plan:
-- title: Python Snippet
-  statement: statement.md
 
-projects:
-  python:
-    root: /
-    runner: python:3.9
-    tests:
-      - "TestAjouter.test_ajouter"
+files:
+  - code.py
+  - test_ajouter.py
+  - markdown.md  # Ton fichier avec les blocs Tech.io
+language: python
 
 
