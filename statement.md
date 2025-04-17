@@ -12,4 +12,4 @@ If you want a more complex example (external libraries, viewers...), use the [Ad
 
 
 
-@[Test unittest: TestAjouter]({"stubs":["code.py"], "command":"TestAjouter.test_ajouter"})
+@[Test : Somme]({"stubs":["code.py"], "command":"TestAjouter.test_ajouter"})
