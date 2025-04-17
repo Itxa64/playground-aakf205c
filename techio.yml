@@ -3,7 +3,7 @@ title: Mon premier exercice Python
 chapters:
   - title: Addition simple
     lessons:
-      - title: Exercice : Addition
+      - title: "Exercice : Addition"
         statement: markdown.md
         executable:
           name: "python"
