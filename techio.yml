@@ -1,9 +1,12 @@
-title: Parcours Python NSI
-
+title: Mon premier exercice Python
+plan:
+  - title: Addition simple
+    statement: markdown.md
+    code: code.py
+language: python
 files:
   - code.py
   - test_ajouter.py
-  - markdown.md  # Ton fichier avec les blocs Tech.io
-language: python
+  - markdown.md
 
 
