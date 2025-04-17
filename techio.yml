@@ -2,7 +2,6 @@ title: Mon premier exercice Python
 plan:
   - title: Addition simple
     statement: markdown.md
-    code: code.py
 language: python
 files:
   - code.py
