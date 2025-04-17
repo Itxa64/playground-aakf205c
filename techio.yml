@@ -6,6 +6,5 @@ language: python
 files:
   - code.py
   - test_ajouter.py
-  - markdown.md
 
 
