@@ -1,13 +1,11 @@
 title: Mon premier exercice Python
 
-chapters:
+plan:
   - title: "Addition simple"
-    lessons:
-      - title: "Exercice : Addition"
-        statement: markdown.md
-        executable:
-          name: "python"
-          command: "python3 -m unittest test_ajouter"
-        files:
-          - code.py
-          - test_ajouter.py
+    statement: markdown.md
+    executable:
+      name: "python"
+      command: "python3 -m unittest test_ajouter"
+    files:
+      - code.py
+      - test_ajouter.py
