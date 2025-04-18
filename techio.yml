@@ -8,5 +8,6 @@ files:
 plan:
   - title: "Addition simple"
     statement: markdown.md
-    run: "python3 -m unittest test_ajouter"
+    code: code.py
+    test: test_ajouter.py
 
