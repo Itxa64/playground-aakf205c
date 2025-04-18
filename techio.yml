@@ -10,6 +10,6 @@ files:
 plan:
   - title: "Addition simple"
     statement: markdown.md
-    code: code.py
+    code: code.py   # <-- Cette ligne permet à Tech.io d’afficher l’éditeur de code
     test: test_ajouter.py
 
