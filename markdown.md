@@ -1,5 +1,9 @@
 # Exercice : Addition
 
-Complète la fonction `ajouter(a, b)` dans `code.py`.
+Complète la fonction `ajouter(a, b)` dans le fichier `code.py` pour qu'elle retourne la somme des deux nombres.
 
-@[Test : Addition](test)
+✅ Exemple :
+
+```python
+>>> ajouter(2, 3)
+5
