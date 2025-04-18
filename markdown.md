@@ -7,4 +7,4 @@ Complète la fonction `ajouter(a, b)` dans le fichier `code.py` pour qu'elle ret
 ```python
 >>> ajouter(2, 3)
 5
-@[Test : Addition](test)
+@[code](code.py)
