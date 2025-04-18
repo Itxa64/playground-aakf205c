@@ -1,4 +1,6 @@
-title: Mon premier exercice Python
+project:
+  title: Mon premier exercice Python
+  description: Exercices simples pour apprendre Python
 
 files:
   - code.py
